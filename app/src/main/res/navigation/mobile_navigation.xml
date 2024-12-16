@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="dam.pmdm.videoclase2.CharacterListFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_language"
+        android:name="dam.pmdm.videoclase2.ui.language.LanguageFragment"
+        android:label="@string/menu_language"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="dam.pmdm.videoclase2.CharacterListFragment"
+        android:label="Main Fragment" >
+
+        <!-- Agrega aquí las acciones y destinos que se pueden realizar desde el MainFragment si es necesario -->
+
+    </fragment>
+
+    <!-- Definición del CharacterDetailFragment -->
+    <fragment
+        android:id="@+id/characterDetailFragment"
+        android:name="dam.pmdm.videoclase2.CharacterDetailFragment"
+        android:label="Character Detail Fragment" />
+</navigation>

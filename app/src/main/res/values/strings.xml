@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PMDM2</string>
+    <string name="lista_de_juegos">Character list</string>
+    <string name="detalles_del_juego">Character details</string>
+    <string name="mario_name">Mario</string>
+    <string name="luigi_name">Luigi</string>
+    <string name="peach_name">Princess Peach</string>
+    <string name="toad_name">Toad</string>
+    <string name="yoshi_name">Yoshi</string>
+    <string name="boo_name">Boo</string>
+    <string name="bowser_name">Bowser</string>
+    <string name="koopa_name">Koopa</string>
+    <string name="goomba_name">Goomba</string>
+    <string name="about_alert">App developed by Lucía Teba Quirós. 1.0. Version</string>
+    <string name="positive_button">OK</string>
+    <string name="character_selected">%1$s has been selected</string>
+    <string name="welcome">Welcome to Mario\'s World</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_language">Language</string>
+    <string name="mario_detail">Main character and titular protagonist of the successful Super Mario franchise.</string>
+    <string name="luigi_detail">Mario\'s younger brother in Nintendo video games.</string>
+    <string name="peach_detail">Princess of the Mushroom Kingdom.</string>
+    <string name="toad_detail">Peaceful people of the Mushroom Kingdom.</string>
+    <string name="yoshi_detail">Friendly dinosaur belonging to the species of the same name that has helped Mario and Luigi.</string>
+    <string name="boo_detail">Ghosts that live in dark places and love to play pranks and scare people.</string>
+    <string name="bowser_detail">Main antagonist of Super Mario.</string>
+    <string name="goomba_detail">Characters based on mushrooms who lived with the Toad and joined Bowser\'s army.</string>
+    <string name="koopa_detail">Turtle-like species. There are many varieties of Koopas. Led by Bowser.</string>
+    <string name="heroes_skills">Jumps, runs, walks</string>
+    <string name="ghost_skills">Floats</string>
+    <string name="boss_skills">Walks, jumps, throws fire</string>
+    <string name="enemies_skills">Jumps, walks</string>
+</resources>

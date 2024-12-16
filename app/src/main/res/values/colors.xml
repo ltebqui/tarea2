@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#925700</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="toolbarTextColor">#FFFFFF</color>
+    <color name="backgroundColor">#FFFFFF</color>
+</resources>

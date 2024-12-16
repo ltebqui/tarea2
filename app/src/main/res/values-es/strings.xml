@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDM2</string>
+    <string name="lista_de_juegos">Lista de personajes</string>
+    <string name="detalles_del_juego">Detalles del personaje</string>
+    <string name="mario_name">Mario</string>
+    <string name="luigi_name">Luigi</string>
+    <string name="peach_name">Princesa Peach</string>
+    <string name="toad_name">Toad</string>
+    <string name="yoshi_name">Yoshi</string>
+    <string name="boo_name">Boo</string>
+    <string name="bowser_name">Bowser</string>
+    <string name="koopa_name">Koopa</string>
+    <string name="goomba_name">Goomba</string>
+    <string name="about_alert">Aplicación desarrollada por Lucía Teba Quirós. Versión 1.0.</string>
+    <string name="positive_button">Vale</string>
+    <string name="character_selected">Ha sido seleccionado %1$s</string>
+    <string name="welcome">Bienvenido al mundo de Mario</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_language">Idiomas</string>
+    <string name="mario_detail">Personaje principal y protagonista titular de la exitosa franquicia Super Mario.</string>
+    <string name="luigi_detail">Hermano menor de Mario en los videojuegos de Nintendo.</string>
+    <string name="peach_detail">Princesa del Reino Champiñón.</string>
+    <string name="toad_detail">\"Personas pacíficas del Reino Champiñón.\"</string>
+    <string name="yoshi_detail">Amistoso dinosaurio perteneciente a la especie de su mismo nombre que ha ayudado a Mario y a Luigi.</string>
+    <string name="boo_detail">Fantasmas que viven en lugares oscuros y a los que les encanta gastar bromas y asustar a la gente</string>
+    <string name="bowser_detail">Antagonista principal de Super Mario.</string>
+    <string name="goomba_detail">Personajes basados en hongos que convivían con los Toad y se unieron al ejercito de Bowser.</string>
+    <string name="koopa_detail">Especies con apariencia de tortuga. Hay muchas variedades de Koopas. Liderados por Bowser.</string>
+    <string name="heroes_skills">Salta, corre, camina</string>
+    <string name="ghost_skills">Flota</string>
+    <string name="boss_skills">Camina, salta, lanza fuego</string>
+    <string name="enemies_skills">Salta, camina</string>
+</resources>

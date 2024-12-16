@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Videoclase2" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- SplashScreen cofiguration-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
+        <item name="android:windowSplashScreenAnimationDuration">2500</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/colorPrimary</item>
+        <item name="android:windowSplashScreenBackground">@color/colorPrimary</item>
+
+    </style>
+
+    <style name="Theme.Videoclase2" parent="Base.Theme.Videoclase2" />
+
+    <style name="Theme.Videoclase2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Videoclase2.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Videoclase2.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
